@@ -182,6 +182,7 @@ double wallTime() {
 
 int main(int argc, char* argv[]) {
     printf("Calculating. Please wait....\n");
+    printf("HOLA MUNDO");
     // tracking  wall time
     double startwtime = 0.0;
     double endwtime;
